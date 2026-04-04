@@ -1,6 +1,9 @@
 C:\Users\rudyrogers\Documents\NetBeansProjects\ServiFastPremium_CORRIGIDO\ServiFastPremium\src\main\java\com\servifast\dao\UsuarioDAO.java
+C:\Users\rudyrogers\Documents\NetBeansProjects\ServiFastPremium_CORRIGIDO\ServiFastPremium\src\main\java\ConnectionFactory.java
 C:\Users\rudyrogers\Documents\NetBeansProjects\ServiFastPremium_CORRIGIDO\ServiFastPremium\src\main\java\com\servifast\model\Usuario.java
 C:\Users\rudyrogers\Documents\NetBeansProjects\ServiFastPremium_CORRIGIDO\ServiFastPremium\src\main\java\com\servifast\controller\LoginController.java
+C:\Users\rudyrogers\Documents\NetBeansProjects\ServiFastPremium_CORRIGIDO\ServiFastPremium\src\main\java\com\servifast\config\CORSFilter.java
+C:\Users\rudyrogers\Documents\NetBeansProjects\ServiFastPremium_CORRIGIDO\ServiFastPremium\src\main\java\com\servifast\controller\UsuarioLoginDTO.java
 C:\Users\rudyrogers\Documents\NetBeansProjects\ServiFastPremium_CORRIGIDO\ServiFastPremium\src\main\java\com\servifast\service\UsuarioService.java
 C:\Users\rudyrogers\Documents\NetBeansProjects\ServiFastPremium_CORRIGIDO\ServiFastPremium\src\main\java\com\servifast\config\ApplicationConfig.java
 C:\Users\rudyrogers\Documents\NetBeansProjects\ServiFastPremium_CORRIGIDO\ServiFastPremium\src\main\java\com\servifast\util\ConnectionFactory.java

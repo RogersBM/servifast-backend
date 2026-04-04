@@ -1,6 +1,9 @@
 com\servifast\config\ApplicationConfig.class
 com\servifast\dao\UsuarioDAO.class
+com\servifast\controller\UsuarioLoginDTO.class
 com\servifast\service\UsuarioService.class
 com\servifast\util\ConnectionFactory.class
 com\servifast\model\Usuario.class
+com\servifast\config\CORSFilter.class
+ConnectionFactory.class
 com\servifast\controller\LoginController.class

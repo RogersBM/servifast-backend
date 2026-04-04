@@ -1,15 +1,13 @@
-package com.servifast.util;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
 
 public class ConnectionFactory {
-
     public static Connection getConnection() {
         try {
-            String url = "jdbc:mysql://localhost:3306/servifast";
-            String user = "root";
-            String pass = "123456";
+            String url = System.getenv("DB_URL");
+            String user = System.getenv("DB_USER");
+            String pass = System.getenv("DB_PASS");
 
             return DriverManager.getConnection(url, user, pass);
         } catch (Exception e) {
