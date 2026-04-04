@@ -1,0 +1,6 @@
+com\servifast\config\ApplicationConfig.class
+com\servifast\dao\UsuarioDAO.class
+com\servifast\service\UsuarioService.class
+com\servifast\util\ConnectionFactory.class
+com\servifast\model\Usuario.class
+com\servifast\controller\LoginController.class
